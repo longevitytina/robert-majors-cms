@@ -5,6 +5,7 @@ import { Link, graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import Features from '../components/Features'
 import BlogRoll from '../components/BlogRoll'
+// import Img from "gatsby-image/withIEPolyfill"
 
 export const IndexPageTemplate = ({
   image,
