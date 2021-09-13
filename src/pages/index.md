@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Eco-Creative Design Engineer
-image: /img/home-jumbotron.jpg
+image: /img/title1.jpg
 heading: Robert Majors
 subheading: Engineering solutions to uplift the enjoyment of life. Leading
   projects that build purpose in our communities.
