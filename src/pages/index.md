@@ -6,46 +6,34 @@ heading: Robert Majors
 subheading: Engineering solutions to uplift the enjoyment of life. Leading
   projects that build purpose in our communities.
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+  title: NICE TO MEET YOU
+  description: Hey, I’m Robert, Events Planner and Consultant
+description: My life has been committed to discovering my passion and learning
+  the best way to develop myself into the person I want to become. This has led
+  me to a lot of humanitarian work and exposure to poorer communities, which
+  includes my existing service to the poor in Las Vegas. The exposure I have had
+  to the human need for sustainable housing is the source of my inspiration for
+  my current endeavors in the study of engineering. I am an established resident
+  of Nevada and a student at the University of Nevada Las Vegas. Skilled in
+  design practices, Microsoft Office, AutoCad, engineering and construction
+  concepts. I fill roles of leadership and teamwork in the community and in
+  organizations including Engineers Without Borders, the Las Vegas Catholic
+  Worker, Tau Beta Pi Honor Society, the Nevada Desert Experience and the
+  American Society of Civil Engineers. There are many projects that I am proud
+  to be a part of and I encourage others to reach out to me if they are
+  interested in working on a project together.
 intro:
   blurbs:
     - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+      text: |
+        Event Planning
     - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+      text: Consulting
     - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+      text: "Architecture "
     - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: What we offer
+      text: Community Service
+  heading: What I offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
     java’s origin and support the farmers that grew it. We take coffee
