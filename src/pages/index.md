@@ -24,14 +24,14 @@ description: My life has been committed to discovering my passion and learning
   interested in working on a project together.
 intro:
   blurbs:
-    - image: /img/event.png
+    - image: /img/event2.png
       text: |
         Event Planning
-    - image: /img/consult.png
+    - image: /img/consult2.png
       text: Consulting
-    - image: /img/archet.png
+    - image: /img/archettransparent.png
       text: "Architecture "
-    - image: /img/community.png
+    - image: /img/community2.png
       text: Community Service
   heading: What I offer
   description: >
