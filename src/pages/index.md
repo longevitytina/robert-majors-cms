@@ -27,11 +27,11 @@ intro:
     - image: /img/coffee.png
       text: |
         Event Planning
-    - image: /img/coffee-gear.png
+    - image: /img/consult.jpeg
       text: Consulting
     - image: /img/tutorials.png
       text: "Architecture "
-    - image: /img/meeting-space.png
+    - image: /img/community.jpeg
       text: Community Service
   heading: What I offer
   description: >
