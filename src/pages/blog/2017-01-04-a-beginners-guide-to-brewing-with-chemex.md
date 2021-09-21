@@ -1,21 +1,31 @@
 ---
 templateKey: blog-post
-title: A beginners’ guide to brewing with Chemex
+title: Humanitarian Engineering
 date: 2017-01-04T15:04:10.000Z
+description: Knowledge is a gift to the world and working with Engineers Without
+  Borders allows gifted professionals to share their ability with countries that
+  do not have the resources to meet necessary goals. Working with communities to
+  create infrastructure, EWB engages student volunteers to help organize
+  projects from their local campus. At the University of Nevada Las Vegas
+  Chapter we are currently working on a school house to be built in Guatemala.
+  The current cost for the project is $50,000 and we are always looking for ways
+  to raise funds and volunteers that can help with the project.
 featuredpost: false
-featuredimage: /img/chemex.jpg
-description: Brewing with a Chemex probably seems like a complicated, time-consuming ordeal, but once you get used to the process, it becomes a soothing ritual that's worth the effort every time.
+featuredimage: /img/humanitarian.jpeg
 tags:
-  - brewing
-  - chemex
+  - humanitarian
 ---
-![chemex](/img/chemex.jpg)
 
-This week we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts.
 
-In 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is _"one of the best-designed products of modern times"_, and so is included in the collection of the Museum of Modern Art in New York City.
+![humanitarian](/img/humanitarian.jpeg)
 
-## The little secrets of Chemex brewing
+<a href="http://ewbunlv.com">http://ewbunlv.com</a>
+
+Check out this sample text formatting ----
+
+In 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is *"one of the best-designed products of modern times"*, and so is included in the collection of the Museum of Modern Art in New York City.
+
+## Check out this test header
 
 The Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conical funnel-like neck (rather than the cylindrical neck of an Erlenmeyer flask) and uses proprietary filters, made of bonded paper (thicker-gauge paper than the standard paper filters for a drip-method coffeemaker) that removes most of the coffee oils, brewing coffee with a taste that is different than coffee brewed in other coffee-making systems; also, the thicker paper of the Chemex coffee filters may assist in removing cafestol, a cholesterol-containing compound found in coffee oils. Here’s three important tips newbies forget about:
 
