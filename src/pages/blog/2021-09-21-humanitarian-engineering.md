@@ -12,6 +12,8 @@ description: Knowledge is a gift to the world and working with Engineers Without
   to raise funds and volunteers that can help with the project.
 featuredpost: true
 featuredimage: /img/humanitarian.jpeg
+tags:
+  - engineering
 ---
 ![](/img/humanitarian.jpeg)
 
