@@ -8,6 +8,8 @@ description: A place to live and feel safe is essential to living a quality
   have an affordable unit, costing less than $1,000, built every week.
 featuredpost: true
 featuredimage: /img/house1.jpg
+tags:
+  - housing
 ---
 ![](/img/house1.jpg "housing")
 
