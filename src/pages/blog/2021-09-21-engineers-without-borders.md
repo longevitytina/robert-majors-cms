@@ -13,7 +13,9 @@ description: >
   and volunteers that can help with the project.
 featuredpost: true
 featuredimage: /img/ewb.jpg
+tags:
+  - engineering
 ---
-![](/img/ewb.jpg)
+![group photo](/img/ewb.jpg)
 
 <a href="http://www.ewbunlv.com/mainsite/ ">http://www.ewbunlv.com/mainsite/ </a>
